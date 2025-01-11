@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: vivekmanne/gitops-demo:3
+      - image: vivekmanne/gitops-demo:4
         name: flaskdemo
         
 ---
